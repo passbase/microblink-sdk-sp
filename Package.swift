@@ -10,7 +10,7 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(name: "Microblink",
-                      url: "https://button.passbase.com/__ios/Microblink_5.11.0.zip",
-                      checksum: "4583840c2d3cf926830943979c8efc77386265547c0a352d20086fffc2e9ca93"),
+                      url: "https://button.passbase.com/__ios/Microblink_5.16.1.zip",
+                      checksum: "33af45af2820e2bc0ff929ade3714c09c923ed03a1606d5219e16b9f87ddeeed"),
     ]
 )
